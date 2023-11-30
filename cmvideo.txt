@@ -256,6 +256,8 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/in
 CHC高清电影,http://111.20.40.166/PLTV/88888893/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8?0.smil
 CHC家庭影院,http://111.20.40.167/PLTV/88888893/224/3221226462/index.m3u8
+北京IPTV淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&icpid=88888888&from=6&popid=6&hms_devid=3729&prioritypopid=6&vqe=3
+北京IPTV淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&GuardEncType=2
 iHot频道,#genre#
 爱科幻,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=3
 爱科幻,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
