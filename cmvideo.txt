@@ -273,14 +273,10 @@ iHot频道,#genre#
 爱奇谈,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
 爱悬疑,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=3
 爱悬疑,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-爱世界,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000052&livemode=1&stbId=3
-爱世界,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
 爱怀旧,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000057&livemode=1&stbId=3
 爱怀旧,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
 爱旅行,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=3
 爱旅行,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-爱都市,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000039&livemode=1&stbId=3
-爱都市,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
 爱科学,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000047&livemode=1&stbId=3
 爱科学,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
 爱谍战,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=3
