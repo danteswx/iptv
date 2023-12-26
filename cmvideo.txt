@@ -106,7 +106,7 @@ CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/i
 CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/index.m3u8
 CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/index.m3u8
 CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/index.m3u8
-CCTV高尔夫•网球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/index.m3u8
+CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/index.m3u8
 CCTV央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/index.m3u8
 CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/index.m3u8
 地方卫视,#genre#
@@ -595,7 +595,7 @@ CGTN,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=10
 CGTN阿拉伯语,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
 CGTN俄语,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
 CGTN法语,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
-CGTN记录,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
+CGTN纪录,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
 CGTN西班牙语,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
 北京频道,#genre#
 北京纪实科教,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000011000031204&livemode=1&stbId=3
@@ -849,31 +849,31 @@ Hot亚洲影院,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=wasusyt&Con
 剧集_地下交通站,https://diyp.112114.xyz/huya/11342433?cdn=hwcdn
 剧集_邻里一家亲,https://diyp.112114.xyz/huya/11342426?cdn=hwcdn
 梯子频道_9898,#genre#
-Live Cams,http://live.adultiptv.net/livecams.m3u8
-MILF,http://live.adultiptv.net/milf.m3u8
-Big Dick,http://live.adultiptv.net/bigdick.m3u8
-Big Tits,http://live.adultiptv.net/bigtits.m3u8
-Fetish,http://live.adultiptv.net/fetish.m3u8
-Pornstar,http://live.adultiptv.net/pornstar.m3u8
-Big Ass,http://live.adultiptv.net/bigass.m3u8
-Interracial,http://live.adultiptv.net/interracial.m3u8
-Latina,http://live.adultiptv.net/latina.m3u8
-POV,http://live.adultiptv.net/pov.m3u8
-Blowjob,http://live.adultiptv.net/blowjob.m3u8
-Teen,http://live.adultiptv.net/teen.m3u8
-Hardcore,http://live.adultiptv.net/hardcore.m3u8
-Cuckold,http://live.adultiptv.net/cuckold.m3u8
-Threesome,http://live.adultiptv.net/threesome.m3u8
-Russian,http://live.adultiptv.net/russian.m3u8
-Lesbian,http://live.adultiptv.net/lesbian.m3u8
-Rough,http://live.adultiptv.net/rough.m3u8
-Gangbang,http://live.adultiptv.net/gangbang.m3u8
-Anal,http://live.adultiptv.net/anal.m3u8
-Compilation,http://live.adultiptv.net/compilation.m3u8
-Brunette,http://live.adultiptv.net/brunette.m3u8
-Blonde,http://live.adultiptv.net/blonde.m3u8
-Gay,http://live.adultiptv.net/gay.m3u8
-Asian,http://live.adultiptv.net/asian.m3u8
+Live Cams,http://live.redtraffic.xyz/livecams.m3u8
+MILF,http://live.redtraffic.xyz/milf.m3u8
+Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
+Big Tits,http://live.redtraffic.xyz/bigtits.m3u8
+Fetish,http://live.redtraffic.xyz/fetish.m3u8
+Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
+Big Ass,http://live.redtraffic.xyz/bigass.m3u8
+Interracial,http://live.redtraffic.xyz/interracial.m3u8
+Latina,http://live.redtraffic.xyz/latina.m3u8
+POV,http://live.redtraffic.xyz/pov.m3u8
+Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
+Teen,http://live.redtraffic.xyz/teen.m3u8
+Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
+Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
+Threesome,http://live.redtraffic.xyz/threesome.m3u8
+Russian,http://live.redtraffic.xyz/russian.m3u8
+Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+Rough,http://live.redtraffic.xyz/rough.m3u8
+Gangbang,http://live.redtraffic.xyz/gangbang.m3u8
+Anal,http://live.redtraffic.xyz/anal.m3u8
+Compilation,http://live.redtraffic.xyz/compilation.m3u8
+Brunette,http://live.redtraffic.xyz/brunette.m3u8
+Blonde,http://live.redtraffic.xyz/blonde.m3u8
+Gay,http://live.redtraffic.xyz/gay.m3u8
+Asian,http://live.redtraffic.xyz/asian.m3u8
 花洒收藏_9898,#genre#
 《兩周年JK特別版》狂肏清純少女蜜鮑,https://j9.avstatic.com/contents/videos/33000/33044/index.m3u8
 衝浪少女的碎碎念,https://j9.avstatic.com/contents/videos/35000/35874/index.m3u8

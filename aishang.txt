@@ -261,12 +261,12 @@ CCTV5+,http://live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=0
 CCTV16,http://live.aishang.ctlcdn.com/00000110240388_1/playlist.m3u8?CONTENTID=00000110240388_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-新视觉,http://82.157.9.10:843/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 新视觉,http://82.157.9.10:843/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-五星体育,http://82.157.9.10:843/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+新视觉,http://82.157.9.10:843/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
 五星体育,http://82.157.9.10:843/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-劲爆体育,http://82.157.9.10:843/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+五星体育,http://82.157.9.10:843/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://82.157.9.10:843/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+劲爆体育,http://82.157.9.10:843/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 影视频道,#genre#
 CHC动作电影,http://live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清电影,http://live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -307,11 +307,11 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 漠河综合高清,http://live.local10.ctlcdn.com/00000110240507_1/playlist.m3u8?CONTENTID=00000110240507_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 中国教育1,http://live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CGTN高清,http://live.aishang.ctlcdn.com/00000110240365_1/playlist.m3u8?CONTENTID=00000110240365_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CGTN记录高清,http://live.aishang.ctlcdn.com/00000110240366_1/playlist.m3u8?CONTENTID=00000110240366_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CGTN西班牙语高清,http://live.aishang.ctlcdn.com/00000110240367_1/playlist.m3u8?CONTENTID=00000110240367_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CGTN法语高清,http://live.aishang.ctlcdn.com/00000110240368_1/playlist.m3u8?CONTENTID=00000110240368_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CGTN阿拉伯语高清,http://live.aishang.ctlcdn.com/00000110240369_1/playlist.m3u8?CONTENTID=00000110240369_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CGTN俄语高清,http://live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8?CONTENTID=00000110240370_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN纪录,http://live.aishang.ctlcdn.com/00000110240366_1/playlist.m3u8?CONTENTID=00000110240366_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN西班牙语,http://live.aishang.ctlcdn.com/00000110240367_1/playlist.m3u8?CONTENTID=00000110240367_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN法语,http://live.aishang.ctlcdn.com/00000110240368_1/playlist.m3u8?CONTENTID=00000110240368_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN阿拉伯语,http://live.aishang.ctlcdn.com/00000110240369_1/playlist.m3u8?CONTENTID=00000110240369_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN俄语,http://live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8?CONTENTID=00000110240370_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 电影轮播,#genre#
 电影_星爷,https://diyp.112114.xyz/huya/11342412?cdn=hwcdn
 电影_英叔,https://diyp.112114.xyz/huya/11342421?cdn=hwcdn
@@ -426,31 +426,31 @@ CGTN俄语高清,http://live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8?C
 剧集_地下交通站,https://diyp.112114.xyz/huya/11342433?cdn=hwcdn
 剧集_邻里一家亲,https://diyp.112114.xyz/huya/11342426?cdn=hwcdn
 梯子频道_9898,#genre#
-Live Cams,http://live.adultiptv.net/livecams.m3u8
-MILF,http://live.adultiptv.net/milf.m3u8
-Big Dick,http://live.adultiptv.net/bigdick.m3u8
-Big Tits,http://live.adultiptv.net/bigtits.m3u8
-Fetish,http://live.adultiptv.net/fetish.m3u8
-Pornstar,http://live.adultiptv.net/pornstar.m3u8
-Big Ass,http://live.adultiptv.net/bigass.m3u8
-Interracial,http://live.adultiptv.net/interracial.m3u8
-Latina,http://live.adultiptv.net/latina.m3u8
-POV,http://live.adultiptv.net/pov.m3u8
-Blowjob,http://live.adultiptv.net/blowjob.m3u8
-Teen,http://live.adultiptv.net/teen.m3u8
-Hardcore,http://live.adultiptv.net/hardcore.m3u8
-Cuckold,http://live.adultiptv.net/cuckold.m3u8
-Threesome,http://live.adultiptv.net/threesome.m3u8
-Russian,http://live.adultiptv.net/russian.m3u8
-Lesbian,http://live.adultiptv.net/lesbian.m3u8
-Rough,http://live.adultiptv.net/rough.m3u8
-Gangbang,http://live.adultiptv.net/gangbang.m3u8
-Anal,http://live.adultiptv.net/anal.m3u8
-Compilation,http://live.adultiptv.net/compilation.m3u8
-Brunette,http://live.adultiptv.net/brunette.m3u8
-Blonde,http://live.adultiptv.net/blonde.m3u8
-Gay,http://live.adultiptv.net/gay.m3u8
-Asian,http://live.adultiptv.net/asian.m3u8
+Live Cams,http://live.redtraffic.xyz/livecams.m3u8
+MILF,http://live.redtraffic.xyz/milf.m3u8
+Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
+Big Tits,http://live.redtraffic.xyz/bigtits.m3u8
+Fetish,http://live.redtraffic.xyz/fetish.m3u8
+Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
+Big Ass,http://live.redtraffic.xyz/bigass.m3u8
+Interracial,http://live.redtraffic.xyz/interracial.m3u8
+Latina,http://live.redtraffic.xyz/latina.m3u8
+POV,http://live.redtraffic.xyz/pov.m3u8
+Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
+Teen,http://live.redtraffic.xyz/teen.m3u8
+Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
+Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
+Threesome,http://live.redtraffic.xyz/threesome.m3u8
+Russian,http://live.redtraffic.xyz/russian.m3u8
+Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+Rough,http://live.redtraffic.xyz/rough.m3u8
+Gangbang,http://live.redtraffic.xyz/gangbang.m3u8
+Anal,http://live.redtraffic.xyz/anal.m3u8
+Compilation,http://live.redtraffic.xyz/compilation.m3u8
+Brunette,http://live.redtraffic.xyz/brunette.m3u8
+Blonde,http://live.redtraffic.xyz/blonde.m3u8
+Gay,http://live.redtraffic.xyz/gay.m3u8
+Asian,http://live.redtraffic.xyz/asian.m3u8
 花洒收藏_9898,#genre#
 《兩周年JK特別版》狂肏清純少女蜜鮑,https://j9.avstatic.com/contents/videos/33000/33044/index.m3u8
 衝浪少女的碎碎念,https://j9.avstatic.com/contents/videos/35000/35874/index.m3u8
