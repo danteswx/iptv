@@ -748,6 +748,9 @@ CCTV16,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=500000000800
 CCTV4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=cctv4k/15000000
 CCTV16,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=cctv16hd4k/15000000
 欢笑剧场,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=hxjc4k/15000000
+CCTV4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=cctv4k
+cctv8K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=cctv8k
+CCTV16,http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=CCTV16-4k
 纪录片频道,#genre#
 求索动物,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000004000000009
 求索动物,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=wasusyt&id=6000000002000010046
