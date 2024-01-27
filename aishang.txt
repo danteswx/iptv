@@ -638,6 +638,7 @@ CHC家庭影院,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0323
 全球大片,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=qqdp8m/8000000
 北京淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&.m3u8
 北京淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&.m3u8
+斗鱼4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/d.php
 iHot频道,#genre#
 爱科幻,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000004000000033
 爱科幻,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=wasusyt&id=6000000006000020630
@@ -739,7 +740,7 @@ CCTV4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0396
 CCTV16,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0389
 爱上4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0282
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
+斗鱼4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/d.php
 华数4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000004000000014
 华数4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=wasusyt&id=6000000003000004748
 CCTV16,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=5000000008000023254

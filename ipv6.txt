@@ -593,6 +593,7 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8?0.smil
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 北京淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&.m3u8
+斗鱼4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/d.php
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 黑莓电影,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000003000000001
@@ -611,6 +612,7 @@ CCTV4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0396
 CCTV16,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0389
 爱上4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0282
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+斗鱼4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/d.php
 华数4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000004000000014
 华数4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=wasusyt&id=6000000003000004748
 CCTV16,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=5000000008000023254

@@ -472,6 +472,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/in
 CHC家庭影院,http://111.20.40.167/PLTV/88888893/224/3221226462/index.m3u8
 北京淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&icpid=88888888&from=6&popid=6&hms_devid=3729&prioritypopid=6&vqe=3
 北京淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&GuardEncType=2
+斗鱼4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/d.php
 iHot频道,#genre#
 爱科幻,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000004000000033
 爱科幻,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=wasusyt&id=6000000006000020630
@@ -569,6 +570,7 @@ NewTV怡伴健康,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&i
 NewTV中国功夫,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000003000000009
 4K频道,#genre#
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+斗鱼4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/d.php
 华数4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000004000000014
 华数4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=wasusyt&id=6000000003000004748
 CCTV16-4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=5000000008000023254
