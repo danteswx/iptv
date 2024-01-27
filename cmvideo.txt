@@ -607,6 +607,11 @@ CGTN西班牙语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id
 北京卡酷少儿,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=7851974109718180595
 北京卡酷少儿,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=wasusyt&id=6000000003000002709
 北京卡酷少儿,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000002000002413
+北京影视,http://1.15.48.2:65321/fdsfdswertgxvcgyter/brtv.php?id=bjys
+北京新闻,http://1.15.48.2:65321/fdsfdswertgxvcgyter/brtv.php?id=bjxw
+北京生活,http://1.15.48.2:65321/fdsfdswertgxvcgyter/brtv.php?id=bjsh
+北京财经,http://1.15.48.2:65321/fdsfdswertgxvcgyter/brtv.php?id=bjcj
+北京8K测试,http://1.15.48.2:65321/fdsfdswertgxvcgyter/brtv.php?id=brtv8k
 上海频道,#genre#
 上海ICS外语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=5000000010000030951
 上海ICS外语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000002000000001
