@@ -577,8 +577,6 @@ CCTV高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com
 五星体育,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=ssty/4000000
 劲爆体育,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=jbtyhd8m/8000000
 劲爆体育,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=jbtyhd/4000000
-咪咕足球,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226506/1.m3u8
-咪咕体育,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
 咪咕足球,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000006000270002
 咪咕体育,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000006000270001
 影视频道,#genre#
