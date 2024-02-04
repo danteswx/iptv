@@ -579,7 +579,11 @@ CCTV高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com
 劲爆体育,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=jbtyhd/4000000
 咪咕足球,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226506/1.m3u8
 咪咕体育,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
+咪咕足球,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000006000270002
+咪咕体育,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000006000270001
 影视频道,#genre#
+1905环球经典,http://1.15.48.2:65321/fdsfdswertgxvcgyter/1905.php?id=19052
+1905云影院,http://1.15.48.2:65321/fdsfdswertgxvcgyter/1905.php?id=19051
 CHC动作电影,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0324
 CHC高清电影,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0325
 CHC家庭影院,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0323
@@ -594,7 +598,6 @@ CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 北京淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&.m3u8
 斗鱼4K,http://1.15.48.2:65321/fdsfdswertgxvcgyter/d.php
-重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?t=Q3ZTI5YWVmMmUwM==&d=7e29aef2e03907f&pid=&cid=20&u=freeuser&l=001&sid=My5f5evM7A+JM7kBEt7zRg==&r=20240116195900&e=20240117195900&nc=5juVZbdBPOgB&a=7&v=2&hlsSessionID=7114844658832085543&srchost=172.16.22.158:8060&gid=1cTuE8i8Z%2F6MoBf3Sw1THw%3D%3D
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 黑莓电影,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000003000000001
@@ -788,6 +791,8 @@ CGTN俄语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=cgtnr
 北京生活,http://1.15.48.2:65321/fdsfdswertgxvcgyter/brtv.php?id=bjsh
 北京财经,http://1.15.48.2:65321/fdsfdswertgxvcgyter/brtv.php?id=bjcj
 北京8K测试,http://1.15.48.2:65321/fdsfdswertgxvcgyter/brtv.php?id=brtv8k
+北京卡酷少儿,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=kkse8m/8000000
+北京纪实科教,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=dajs8m/8000000
 上海频道,#genre#
 上海新闻综合,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 上海新闻综合,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226620/1.m3u8
@@ -806,7 +811,6 @@ CGTN俄语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=cgtnr
 欢笑剧场,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
 七彩戏剧,http://[2409:8087:7001:20:1000::95]:6610/000000001000/2000000002000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=3
 东方财经,http://[2409:8087:7001:20:1000::95]:6610/000000001000/2000000002000000090/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
-上海哈哈炫动,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
 上海新闻综合,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=5000000011000031110
 上海新闻综合,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000002000000005
 上海都市,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=5000000010000018926
@@ -820,6 +824,7 @@ CGTN俄语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=cgtnr
 东方财经,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=5000000007000010003
 东方财经,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000002000000090
 法治天地,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000002000000014
+哈哈炫动,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
 哈哈炫动,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=5000000011000031123
 哈哈炫动,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=5000000005000031641
 哈哈炫动,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000002000000172
@@ -875,7 +880,6 @@ CGTN俄语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=cgtnr
 第一财经,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=dycjhd8m/8000000
 上海ICS外语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=icshd8m/8000000
 上海教育,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=setvhd/8000000
-炫动卡通,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=xdkthd8m/8000000
 五星体育,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=wxtyhd8m/8000000
 都市剧场,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=dsjchd8m/8000000
 欢笑剧场,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=hxjc8m/8000000
@@ -899,10 +903,7 @@ CGTN俄语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=cgtnr
 谍战剧场,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=dzjc8m/8000000
 热门剧场,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=rmjc8m/8000000
 电竞天堂,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=djtt8m/8000000
-卡酷少儿,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=kkse8m/8000000
-纪实科教,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=dajs8m/8000000
-茶频道,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=cpdhd8m/8000000
-快乐垂钓,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=klcd8m/8000000
+
 上海新闻综合,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=xwzhhd/4000000
 上海都市,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=ylpdhd/4000000
 东方影视,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=dsjpdhd/4000000
@@ -910,7 +911,6 @@ CGTN俄语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=cgtnr
 上海ICS外语,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=wypdhd/4000000
 上海纪实人文,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=jspdhd/4000000
 五星体育,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=sstyhd/4000000
-炫动卡通,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=xdkthd/4000000
 都市剧场,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=dsjchd/4000000
 欢笑剧场,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=hxjchd/4000000
 动漫秀场,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=dmxchd/4000000
@@ -1023,8 +1023,19 @@ Hot亚洲影院,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=wasusyt&id=58
 动画娱乐,#genre#
 黑莓动画,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000003000000002
 黑莓动画,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000004000021734
-江苏优漫卡通,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=wasusyt&id=6000000003000030492
-江苏优漫卡通,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000002000010063
+卡酷少儿,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=7851974109718180595
+卡酷少儿,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=wasusyt&id=6000000003000002709
+卡酷少儿,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000002000002413
+哈哈炫动,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
+哈哈炫动,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=5000000011000031123
+哈哈炫动,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=5000000005000031641
+哈哈炫动,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000002000000172
+优漫卡通,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=wasusyt&id=6000000003000030492
+优漫卡通,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000002000010063
+动漫秀场,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=dmxc8m/8000000
+动漫秀场,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=dmxchd/4000000
+少儿动漫,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000004000000003
+少儿动漫,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=wasusyt&id=8145334647720731271
 高清娱乐,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000004000000013
 高清娱乐,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=wasusyt&id=6000000003000001569
 教育频道,#genre#
@@ -1045,7 +1056,6 @@ Hot亚洲影院,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=wasusyt&id=58
 中国教育1,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=zgjy1thd8m/8000000
 中国教育4,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=zgjy4hd8m/8000000
 其它频道,#genre#
-纪实科教,http://1.15.48.2:65321/fdsfdswertgxvcgyter/b.php?id=dajs8m/8000000
 哈尔滨新闻综合高清,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a10.php?id=0362
 鸡西公共,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a10.php?id=0379
 牡丹江新闻综合,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a10.php?id=0374
