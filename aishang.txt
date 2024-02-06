@@ -322,6 +322,7 @@ CCTV卫生健康,http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=wsjk
 新海南,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000003000000011
 新疆卫视,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000002000029441
 新疆卫视,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=5000000006000040018
+兵团卫视.http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=btws
 兵团卫视,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000005000266005
 兵团卫视,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=bestzb&id=5000000006000040020
 山西卫视,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000002000021220
@@ -396,6 +397,7 @@ CCTV卫生健康,http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=wsjk
 四川卫视,http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=scws
 新疆卫视,http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=xjws
 海南卫视,http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=hinws
+兵团卫视.http://1.15.48.2:65321/fdsfdswertgxvcgyter/y.php?id=btws
 欧华港台,#genre#
 需升级app,p3p://108.181.32.169:57720/641af90c000328bac2b691f11db2274a
 RHK 31,p3p://108.181.32.169:57720/64101f330006ab429853d45f7940453b
