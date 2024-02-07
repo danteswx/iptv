@@ -1487,6 +1487,10 @@ CCTV高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com
 影视频道,#genre#
 1905环球经典,http://1.15.48.2:65321/fdsfdswertgxvcgyter/1905.php?id=19052
 1905云影院,http://1.15.48.2:65321/fdsfdswertgxvcgyter/1905.php?id=19051
+4K超高清电影,http://1.15.48.2:65321/fdsfdswertgxvcgyter/s.php?id=emdy4k_8000
+峨嵋电影,http://1.15.48.2:65321/fdsfdswertgxvcgyter/s.php?id=emdygqH265_4000
+重温经典,http://1.15.48.2:65321/fdsfdswertgxvcgyter/g.php?id=cwjd
+重温经典,http://1.15.48.2:65321/fdsfdswertgxvcgyter/s.php?id=CWJD_4000
 CHC动作电影,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0324
 CHC高清电影,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0325
 CHC家庭影院,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0323
