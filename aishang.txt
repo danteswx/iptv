@@ -1493,7 +1493,7 @@ CCTV16,http://1.15.48.2:65321/fdsfdswertgxvcgyter/a.php?id=0388
 影视频道,#genre#
 1905环球经典,http://1.15.48.2:65321/fdsfdswertgxvcgyter/1905.php?id=19052
 1905云影院,http://1.15.48.2:65321/fdsfdswertgxvcgyter/1905.php?id=19051
-重温经典,http://1.15.48.2:65321/fdsfdswertgxvcgyter/s.php?id=CWJD_4000
+重温经典,http://1.15.48.2:65321/fdsfdswertgxvcgyter/w.php?id=CWJDHD
 黑莓电影,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000003000000001
 黑莓电影,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=ystenlive&id=1000000004000019624
 精彩影视,http://1.15.48.2:65321/fdsfdswertgxvcgyter/c.php?p=hnbblive&id=2000000004000000063
