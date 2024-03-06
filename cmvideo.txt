@@ -287,9 +287,6 @@ KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 影视频道,#genre#
 1905环球经典,http://1.15.48.2:65321/vfdgrtygdfgd000/1905.php?id=19052
 1905云影院,http://1.15.48.2:65321/vfdgrtygdfgd000/1905.php?id=19051
-CHC动作电影,http://1.15.48.2:65321/vfdgrtygdfgd000/a.php?id=0324
-CHC高清电影,http://1.15.48.2:65321/vfdgrtygdfgd000/a.php?id=0325
-CHC家庭影院,http://1.15.48.2:65321/vfdgrtygdfgd000/a.php?id=0323
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8?0.smil
 CHC动作电影,http://111.20.40.167/PLTV/88888893/224/3221226465/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8?0.smil
@@ -297,15 +294,6 @@ CHC高清电影,http://111.20.40.166/PLTV/88888893/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8?0.smil
 CHC家庭影院,http://111.20.40.167/PLTV/88888893/224/3221226462/index.m3u8
 斗鱼4K,http://1.15.48.2:65321/vfdgrtygdfgd000/d.php
-4K频道,#genre#
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-斗鱼4K,http://1.15.48.2:65321/vfdgrtygdfgd000/d.php
-北京频道,#genre#
-北京影视,http://1.15.48.2:65321/vfdgrtygdfgd000/brtv.php?id=bjys
-北京新闻,http://1.15.48.2:65321/vfdgrtygdfgd000/brtv.php?id=bjxw
-北京生活,http://1.15.48.2:65321/vfdgrtygdfgd000/brtv.php?id=bjsh
-北京财经,http://1.15.48.2:65321/vfdgrtygdfgd000/brtv.php?id=bjcj
-北京8K测试,http://1.15.48.2:65321/vfdgrtygdfgd000/brtv.php?id=brtv8k
 电影轮播,#genre#
 电影_星爷,http://150.158.81.4/cdn/hy/11342412.flv
 电影_英叔,http://150.158.81.4/cdn/hy/11342421.flv
@@ -419,37 +407,3 @@ CHC家庭影院,http://111.20.40.167/PLTV/88888893/224/3221226462/index.m3u8
 剧集_武林外传,http://150.158.81.4/cdn/hy/21059598.flv
 剧集_地下交通站,http://150.158.81.4/cdn/hy/11342433.flv
 剧集_邻里一家亲,http://150.158.81.4/cdn/hy/11342426.flv
-梯子频道_9898,#genre#
-Live Cams,http://live.redtraffic.xyz/livecams.m3u8
-MILF,http://live.redtraffic.xyz/milf.m3u8
-Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
-Big Tits,http://live.redtraffic.xyz/bigtits.m3u8
-Fetish,http://live.redtraffic.xyz/fetish.m3u8
-Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
-Big Ass,http://live.redtraffic.xyz/bigass.m3u8
-Interracial,http://live.redtraffic.xyz/interracial.m3u8
-Latina,http://live.redtraffic.xyz/latina.m3u8
-POV,http://live.redtraffic.xyz/pov.m3u8
-Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
-Teen,http://live.redtraffic.xyz/teen.m3u8
-Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
-Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
-Threesome,http://live.redtraffic.xyz/threesome.m3u8
-Russian,http://live.redtraffic.xyz/russian.m3u8
-Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
-Rough,http://live.redtraffic.xyz/rough.m3u8
-Gangbang,http://live.redtraffic.xyz/gangbang.m3u8
-Anal,http://live.redtraffic.xyz/anal.m3u8
-Compilation,http://live.redtraffic.xyz/compilation.m3u8
-Brunette,http://live.redtraffic.xyz/brunette.m3u8
-Blonde,http://live.redtraffic.xyz/blonde.m3u8
-Gay,http://live.redtraffic.xyz/gay.m3u8
-Asian,http://live.redtraffic.xyz/asian.m3u8
-18+1,https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
-+18 Miami TV,https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/chunklist_w1313431720_b1896000.m3u8
-+18 Miami TV,https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/chunklist_w1103718049_b1896000.m3u8
-+18 Miami TV Mexico,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/chunklist_w1879939193_b1896000.m3u8
-+18 SunBeachTV.us,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-+18 a3bikini,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
-18+2,https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
-18+3,http://51.159.102.100/PenthouseGold/index.m3u8
