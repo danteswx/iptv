@@ -316,8 +316,8 @@ CGTN俄语,http://1.15.48.2:65321/vfdgrtygdfgd000/y.php?id=cgtnr
 北京8K测试,http://1.15.48.2:65321/vfdgrtygdfgd000/brtv.php?id=brtv8k
 上海频道,#genre#
 上海新闻综合,http://1.15.48.2:65321/vfdgrtygdfgd000/b.php?id=xwzhhd8m/8000000
-上海都市,http://1.15.48.2:65321/vfdgrtygdfgd000/b.php?id=dspdhd8m/8000000
-东方影视,http://1.15.48.2:65321/vfdgrtygdfgd000/b.php?id=dsjpdhd8m/8000000
+上海都市,http://1.15.48.2:65321/vfdgrtygdfgd000/b.php?id=dshd8m/8000000
+东方影视,http://1.15.48.2:65321/vfdgrtygdfgd000/b.php?id=dfyshd8m/8000000
 东方财经,http://1.15.48.2:65321/vfdgrtygdfgd000/b.php?id=dfcjhd8m/8000000
 第一财经,http://1.15.48.2:65321/vfdgrtygdfgd000/b.php?id=dycjhd8m/8000000
 上海ICS外语,http://1.15.48.2:65321/vfdgrtygdfgd000/b.php?id=icshd8m/8000000
